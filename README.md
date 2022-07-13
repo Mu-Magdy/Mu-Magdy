@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed Magdy</h1>
 <h3 align="center">A passionate Junior Data Scientist from Egypt</h3>
-<a href="URL_REDIRECT" target="blank"><img align="center" src="URL_TO_YOUR_IMAGE" height="100" /></a>
+<a href="https://github.com/Mu-Magdy/Mu-Magdy/blob/main/a.gif" target="blank"><img align="center" src="https://github.com/Mu-Magdy/Mu-Magdy/blob/main/a.gif" height="400" /></a>
+
 - 🔭 I’m currently working on **building conscious for Sophia the robot and other self projects**
 
 - 🌱 I’m currently learning **Tensorflow and AWS**
