@@ -3,7 +3,7 @@
 
 <p align="center"><a href="https://github.com/Mu-Magdy/Mu-Magdy/blob/main/giphy.gif" target="blank"><img align="center" src="https://github.com/Mu-Magdy/Mu-Magdy/blob/main/giphy.gif" height="400" /></a></p>
 
-- 🔭 I’m currently working on **building consciousness for Sophia the robot and other self projects**
+- 🔭 I’m currently working on **building consciousness for Sophia the robot and other secret projects**
 
 - 🌱 I’m currently learning **Tensorflow and AWS**
 
