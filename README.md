@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **muhammedmagdy1015@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EyCgAihC9tVjtDd4yMvJ2kRYrxyXL0ul/view?usp=sharing](https://drive.google.com/file/d/1EyCgAihC9tVjtDd4yMvJ2kRYrxyXL0ul/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1qoaIQcE-Nr9_KtMczbZcAsBmA6eWArE0/view?usp=share_link)
 
 - ⚡ Fact **I think I care too much about details**
 
