@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Tensorflow and AWS**
 
-- 👯 I’m looking to collaborate on **any open-source project**
+- 👯 I’m looking to collaborate on **open-source projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mu-Magdy?tab=repositories](https://github.com/Mu-Magdy?tab=repositories)
 
